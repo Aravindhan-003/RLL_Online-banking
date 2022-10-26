@@ -1,0 +1,11 @@
+body {
+	color: #fff;
+	background: #000000;
+    font-family: 'Roboto', sans-serif;
+    
+    width: 100vw;
+    height: 100vh;
+    background-image: url(https://img.freepik.com/free-vector/banking-isometric-flowchart_1284-58041.jpg?w=826&t=st=1666684879~exp=1666685479~hmac=1c946df7d8394d2a63edf918f717a59cdfb44c16bfedb4c01a83f2d0e352cbfa);
+    background-size:90%;
+}
+
